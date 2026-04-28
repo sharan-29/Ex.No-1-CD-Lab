@@ -86,7 +86,13 @@ return 0;
 
 ## OUTPUT:
 
-<img width="1633" height="725" alt="image" src="https://github.com/user-attachments/assets/a77d2505-6c78-4a57-ac81-7aa7bd2b832d" />
+### Symbol Found:
+
+<img width="1355" height="555" alt="image" src="https://github.com/user-attachments/assets/fbe488df-ff56-4254-8e0c-71b26846475b" />
+
+### Symbol Not Found:
+
+<img width="1378" height="569" alt="image" src="https://github.com/user-attachments/assets/e309d363-656e-41d6-9ec4-3ec0f44fddb4" />
 
 
 ## RESULT:
